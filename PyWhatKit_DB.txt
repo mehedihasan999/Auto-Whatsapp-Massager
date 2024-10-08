@@ -1,0 +1,10 @@
+Date: 27/9/2024
+Time: 11:11
+Phone Number: +00801616721386
+Message: Hello from Python!
+--------------------
+Date: 27/9/2024
+Time: 11:13
+Phone Number: +00801616721386
+Message: Hello from Python!
+--------------------
